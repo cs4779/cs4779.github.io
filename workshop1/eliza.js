@@ -201,7 +201,7 @@ var rules = {
     "I understand",
   ],
   "~*x someone ~*y": [
-    "Can you be more specific?",
+    "Can you please stop talking and never treat me like this again?",
   ],
   "~*x everyone ~*y": [
     "Surely not everyone",
@@ -209,7 +209,7 @@ var rules = {
     "Who, for example?",
     "You are thinking of a special person",
   ],
-  "~*x always ~*y": [
+  "~*x dead body of ~*y": [
     "Can you think of a specific example?",
     "When?",
     "What incident are you thinking of?",
