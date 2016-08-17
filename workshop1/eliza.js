@@ -210,7 +210,7 @@ var rules = {
     "You are thinking of a special person",
   ],
   "~*x dead body of ~*y": [
-    "Can you think of a specific example?",
+    "Can you think of a specific person or thing that is dead?",
     "When?",
     "What incident are you thinking of?",
     "Really--always?",
